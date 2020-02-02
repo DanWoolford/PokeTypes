@@ -8,7 +8,7 @@
                 </OnPlatform>
             </NavigationPage.Icon>
             <x:Arguments>
-                <views:ItemsPage />
+                <views:AboutPage />
             </x:Arguments>
         </NavigationPage>
         <NavigationPage Title="About">
@@ -18,7 +18,7 @@
                 </OnPlatform>
             </NavigationPage.Icon>
             <x:Arguments>
-                <views:AboutPage />
+                <views:Attacking />
             </x:Arguments>
         </NavigationPage>
     </TabbedPage.Children>
